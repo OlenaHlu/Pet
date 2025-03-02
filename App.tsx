@@ -19,5 +19,5 @@ function App(): React.JSX.Element {
     </SafeAreaView>
   );
 }
-
+console.log('Debugging працює!');
 export default App;
